@@ -3,7 +3,12 @@ guid: 393177773fed032438489ff047ee42cb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hanging_Cloth
+    second: {fileID: 2100000, guid: 020e5928bfb72a0469edc08c446d7eb3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
